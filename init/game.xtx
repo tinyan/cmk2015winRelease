@@ -1,0 +1,147 @@
+name game
+
+noScriptFlag 1
+noMessageWindowFlag 1
+systemMenuClassDisable 1
+optionButtonCreateFlag 0
+messageCursorCreateFlag 0
+dataFileDontCreate 1
+
+
+totalVolumeUseFlag 1
+@totalVolumePrintFlag 0
+
+
+
+seiInitData Gates
+meiInitData Bill
+
+rubiFlag 1
+
+gothicFontName terminal
+minchoFontName ÉÅÉCÉäÉI
+@replaceFontnameChara ?
+
+
+tagConfigCaption1 tab1
+tagConfigCaption2 tab2
+tagConfigCaption3 tab3
+tagConfigCaption4 tab4
+tagConfigCaption5 tab5
+tagConfigCaption6 tab6
+
+realWindowSizeX1 800
+realWindowSizeY1 600
+
+
+usescreenSizeType 1
+screenSizeTypeNumber 1
+
+@screenSize 1
+
+layerExpand 32
+
+
+saveFolderType 1
+saveCompanyFolder bugnekosoft
+saveGameFolder cmk2015win
+
+
+mutexName BUGNEKOSOFTCMK2015WIN
+
+highVersion 0
+middleVersion 0 
+lowVersion 0 
+
+companyName bugnekosoft
+gamename cmk2015win
+
+
+
+BackfileName ta_dummy
+BackPrintX 690
+BackPrintY 540
+BackSizeX 80
+BackSizeY 40
+
+BackAnimeType1 7
+BackAnimePattern1 4
+BackAnimeSpeed1 10
+
+BackAnimeType2 7
+BackAnimePattern2 4
+BackAnimeSpeed2 3
+
+BackAnimeType3 7
+BackAnimePattern3 4
+BackAnimeSpeed3 50
+
+
+BackClickSound 2
+BackClickTime 1
+
+
+
+UpfileName ta_dummy
+DownfileName ta_dummy
+UpPrintX 5
+UpPrintY 9
+UpSizeX 80
+UpSizeY 40
+DownPrintX 5
+DownPrintY 540
+DownSizeX 80
+DownSizeY 40
+
+
+UpClickSound 3
+DownClickSound 3
+UpClickTime 1
+DownClickTime 1
+
+
+
+
+
+
+cgCharaNumber 1
+noWaitVSync 0
+
+frameTime 20
+
+dwqPackLevel 1
+
+shortCutSystemMenuSound 1
+shortCutSaveSound 1
+shortCutLoadSound 1
+shortCutConfigSound 1
+
+
+maxSkipFrame 4
+
+systemsoundloadnumber 4
+
+
+MaxcgcharaNumber 2
+
+
+directXVolumeFlag 1
+
+directXVolume 80
+
+selectcgcharaClassDisable 1
+selectscenecharaClassDisable 1
+selectplaceClassDisable 1
+selectmoviecharaClassDisable 1
+selectmovieClassDisable 1
+nameinputClassDisable 1
+openingClassDisable 1
+minigameClassDisable 1
+
+
+movieVolumeNotUse 0
+
+printcalendarClassDisable 1
+selectheroinClassDisable 1
+
+
