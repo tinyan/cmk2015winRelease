@@ -1,0 +1,32 @@
+modename play
+
+backFilename ta_play_exit
+backButtonBGUse 0
+backSizeX 32
+backSizeY 32
+backPrintX 500
+backPrintY 8
+backAnimePattern1 2
+backAnimeSpeed1 10
+backAnimeType1 7
+
+
+useFilename ta_play_button_use
+useSizeX 128
+useSizeY 64
+usePrintX 50
+usePrintY 600
+useClickSound 1
+
+
+dropFilename ta_play_button_drop
+dropSizeX 128
+dropSizeY 64
+dropPrintX 250
+dropPrintY 600
+
+cancelFilename ta_play_button_cancel
+cancelSizeX 128
+cancelSizeY 64
+cancelPrintX 400
+cancelPrintY 600

@@ -7,6 +7,8 @@ optionButtonCreateFlag 0
 messageCursorCreateFlag 0
 dataFileDontCreate 1
 
+@fukuromoji 2
+
 
 totalVolumeUseFlag 1
 @totalVolumePrintFlag 0
@@ -30,8 +32,10 @@ tagConfigCaption4 tab4
 tagConfigCaption5 tab5
 tagConfigCaption6 tab6
 
-realWindowSizeX1 800
-realWindowSizeY1 600
+realWindowSizeX1 544
+realWindowSizeY1 960
+
+
 
 
 usescreenSizeType 1

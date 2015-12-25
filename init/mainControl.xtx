@@ -12,8 +12,13 @@ addVersionToWindowTitleFlag 0
 versionTitleMessage version
 
 
-realWindowSizeX1 800
-realWindowSizeY1 600
+windowSizeX 544
+windowSizeY 960
+
+
+
+realWindowSizeX1 544
+realWindowSizeY1 960
 
 realWindowSizeX2 1024
 realWindowSizeY2 768

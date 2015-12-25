@@ -1,0 +1,8 @@
+modename selectstage
+
+backFilename ta_editdeck_button_quit
+backButtonBGUse 0
+backSizeX 128
+backSizeY 64
+backPrintX 10
+backPrintY 890

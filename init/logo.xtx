@@ -3,7 +3,7 @@ modename logo
 logoNumber 1
 
 useCustomFileFlag 1
-filename1 sys\dummy
+filename1 sys\tatelogo
 
-
+nextMode 51
 
